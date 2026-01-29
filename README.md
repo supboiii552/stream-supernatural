@@ -14,4 +14,4 @@ if you want to add a movie or an anime look at VidLink.pro's docs and change the
 
 it is really janky at the moment so youhave to include all the episodes you want in the first part of the script.js file and keep the formatting exactly the same but with different episodes, otherwise the dropdown menu wont work.
 
-i would advise against doing these steps, as it would probably be faster and more effective to make a new website with cleaner code and that is easier to customize
+i would advise against doing these steps, as it would probably be faster and more effective to make a new website with cleaner code and that is easier to customize because in order to even get this to work you have to manually (or have an ai) spit out every single episode in every season for the dropdown to even work. if you go to VidLink's website they have a player where youput in the TMDb id and episode and season numbers, as well as comprehensive docs on how to incorporate it into your website. it works great on GH pages.
